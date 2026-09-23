@@ -29,6 +29,7 @@ export default function Home() {
       <section className="hero container">
         <h1 className="title">Monster Studio</h1>
         <p className="subtitle">Here is where ideas become monsters</p>
+        <span className="tag">Estudio creativo · Galicia</span>
         <a className="button" href={`mailto:${CONTACT_EMAIL}`}>
           Contactar
           <span aria-hidden="true">→</span>
